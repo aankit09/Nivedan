@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487301388554",
+    "project_id": "nivedan-8d84f",
+    "storage_bucket": "nivedan-8d84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487301388554:android:f7d55d8010e7f0df1282f3",
+        "android_client_info": {
+          "package_name": "com.sanvedi.nivedan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487301388554-vqsb9ikjg05adq6g3oe1rdlmn8un4hsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4VqJq24qO8pc-TfiQ2EX49IGhGoECYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487301388554-vqsb9ikjg05adq6g3oe1rdlmn8un4hsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
